@@ -1,0 +1,2 @@
+JwtConfig:
+  SECRET_KEY: "12345"
